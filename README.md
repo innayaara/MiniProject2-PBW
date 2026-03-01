@@ -260,12 +260,11 @@ Navbar menggunakan komponen Bootstrap 5 dan responsive collapse.
 ## Teknologi yang Digunakan
 
 <details>
-<summary><b>1. Home Section</b></summary>
+<summary><b>1. HTML</b></summary>
 <br>
 
-Section Home merupakan tampilan pertama yang dilihat oleh pengunjung website. 
-Bagian ini dirancang sebagai hero section dengan layout dua kolom menggunakan 
-Bootstrap Grid System.
+HTML digunakan sebagai struktur utama dalam membangun halaman website. Elemen-elemen seperti <nav>, <section>, <div>, <h1>, <p>, dan <img> digunakan untuk menyusun konten agar terstruktur dengan baik dan semantik.
+
 
 - Foto profil berbentuk lingkaran dengan efek shadow dan glow<br>
 - Nama lengkap Indah Maramin Al Inayah dengan highlight warna pink<br>
@@ -278,4 +277,20 @@ Tampilan dibuat clean dan minimalis untuk memberi kesan profesional serta modern
 <br>
 </details>
 
+<details>
+<summary><b>2. CSS</b></summary>
+<br>
+
+CSS digunakan untuk mengatur tampilan dan desain visual website, seperti:
+
+- Warna dan tema pink aesthetic
+- Background gradient
+- Shadow dan hover effect
+- Custom styling untuk button dan card
+- Pengaturan font dan spacingn highlight warna pink<br>
+
+CSS juga digunakan untuk membuat tampilan terlihat clean dan professional.
+
+<br>
+</details>
 
