@@ -294,3 +294,51 @@ CSS juga digunakan untuk membuat tampilan terlihat clean dan professional.
 <br>
 </details>
 
+<details>
+<summary><b>3. Bootstrap 5</b></summary>
+<br>
+
+Bootstrap 5 digunakan untuk mempermudah proses layouting dan styling dengan memanfaatkan komponen dan utility class yang sudah tersedia.
+
+Fitur Bootstrap yang digunakan antara lain:
+
+- Navbar
+- Container
+- Grid System (row, col-md, col-lg)
+- Card
+- Button
+- Progress Bar
+- Utility spacing (mt-, mb-, py-)
+
+Bootstrap membantu membuat tampilan lebih rapi dan konsisten.
+
+<br>
+</details>
+
+<details>
+<summary><b>4. Vue JS</b></summary>
+<br>
+
+Vue JS digunakan untuk membuat tampilan lebih dinamis meskipun data yang digunakan bersifat statis.
+
+Fitur Vue yang digunakan:
+
+- data() untuk menyimpan data skills dan certificates
+- Interpolation {{ }} untuk menampilkan data ke HTML
+- Directive v-for untuk melakukan perulangan data
+- Binding atribut menggunakan :src
+- .mount('#app') untuk menghubungkan Vue ke elemen HTML
+
+Vue digunakan untuk mempermudah pengelolaan data dan membuat kode lebih terstruktur.
+
+<br>
+</details>
+
+<details>
+<summary><b>5. Font Awesome</b></summary>
+<br>
+
+Font Awesome digunakan untuk menampilkan ikon seperti ikon Instagram pada hero section.
+
+<br>
+</details>
