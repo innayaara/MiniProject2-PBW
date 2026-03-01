@@ -174,6 +174,28 @@ Section ini berisi deskripsi diri dan skill cards dengan progress bar custom.
   </div>
 </div>
 ```
+- `col-md-6 col-lg-4`  
+  Menggunakan Grid System Bootstrap.
+  - Pada ukuran **tablet (≥768px)** akan menampilkan 2 kolom.
+  - Pada ukuran **desktop (≥992px)** akan menampilkan 3 kolom.
+  
+- `skill-card`  
+  Class custom yang digunakan untuk membuat tampilan card dengan:
+  - background putih
+  - border-radius
+  - box-shadow
+  - efek hover
+
+- `skill-bar`  
+  Digunakan sebagai background progress bar.
+
+- `skill-fill`  
+  Menampilkan level kemampuan berdasarkan properti `width` (contoh: 90%).
+
+- `<span>90%</span>`  
+  Menampilkan persentase kemampuan secara teks.
+  
+Section ini memadukan Bootstrap Grid System dan CSS custom untuk menghasilkan tampilan skill yang responsif dan aesthetic.
 
 <br>
 </details>
@@ -199,4 +221,20 @@ Menggunakan Bootstrap Card dan Vue v-for untuk menampilkan data sertifikat.
 <br>
 </details>
 
+<br>
+</details>
 
+<details>
+<summary><b>4. Navbar</b></summary>
+<br>
+
+Navbar menggunakan komponen Bootstrap 5 dan responsive collapse.
+
+```html
+<nav class="navbar navbar-expand-lg fixed-top">
+  <div class="container">
+    <a class="navbar-brand fw-bold" href="#">Hi! Call me Naya</a>
+  </div>
+</nav>
+```
+---
