@@ -1,4 +1,37 @@
-# Mini Project 1: Portfolio
+# 🌸 Mini Project — Portfolio Website  
+
+## 💖 Indah Maramin Al Inayah  
+### UI/UX Designer • Department RELACS  
+
+---
+
+## ✨ Personal Portfolio Web Application  
+
+Website portofolio statis dengan konsep **clean, professional, dan pink aesthetic**  
+yang menampilkan profil diri, skills, serta certificates.
+
+---
+
+## 🛠 Built With  
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap 5-Framework-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-Library-42B883?style=for-the-badge&logo=vue.js&logoColor=white"/>
+
+</p>
+
+---
+
+## 🎯 Project Overview  
+
+Portfolio website ini dibuat untuk memenuhi tugas Mini Project Pemrograman Berbasis Web.  
+Website dirancang menggunakan struktur HTML yang semantik, styling CSS custom,  
+serta bantuan Bootstrap 5 dan Vue JS untuk pengelolaan data yang lebih terstruktur.
+
+---
 
 | Nama                      | NIM           | Kelas             |
 |---------------------------|---------------|-------------------|
