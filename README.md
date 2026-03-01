@@ -148,6 +148,11 @@ Home section menggunakan Bootstrap Grid System untuk membagi layout menjadi dua 
   </div>
 </section>
 ```
+- `container`: Membungkus elemen sesuai Grid System Bootstrap.
+- `row`: Membuat baris layout.
+- `col-lg-5` dan `col-lg-7`: Membagi layout menjadi 5 dan 7 kolom dari total 12 kolom.
+- `d-flex align-items-center`: Menggunakan Flexbox Bootstrap untuk vertical alignment.
+- `{{ nama }}`: Menggunakan Vue Interpolation untuk menampilkan data dari `data()`.
 
 <br>
 </details>
