@@ -99,8 +99,8 @@
 <br>
 
 <div align="center">
-  <img width="1919" height="1010" alt="image" 
-  src="https://github.com/user-attachments/assets/83a3d7d8-2345-4bd8-a5d1-ff6cb8f4b22a" />
+  <img width="1914" height="204" alt="Screenshot 2026-03-01 114933" 
+  src="https://github.com/user-attachments/assets/daa20d95-9460-4172-ae11-a659fa9909b9" />
 
   <img width="1917" height="270" alt="image" 
   src="https://github.com/user-attachments/assets/647cfa0f-0cad-45b1-b786-fee0b9e8e088" />
@@ -123,3 +123,6 @@
 </div>
 <br>
 </details>
+
+---
+
