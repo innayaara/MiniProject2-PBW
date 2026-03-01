@@ -1,8 +1,4 @@
 # 🌸 Mini Project — Portfolio Website  
-
-## 💖 Indah Maramin Al Inayah  
-### UI/UX Designer • Department RELACS  
-
 ---
 
 ## ✨ Personal Portfolio Web Application  
@@ -39,7 +35,8 @@ serta bantuan Bootstrap 5 dan Vue JS untuk pengelolaan data yang lebih terstrukt
 
 ---
 
-## Fitur
+## 🌷 Fitur Website  
+Deskripsi tampilan dan fungsi setiap section.
 
 <details>
 <summary><b>1. Home Section</b></summary>
@@ -159,7 +156,8 @@ serta bantuan Bootstrap 5 dan Vue JS untuk pengelolaan data yang lebih terstrukt
 
 ---
 
-## Kode Section / Fitur
+## 💻 Penjelasan Kode  
+Pembahasan struktur HTML, CSS, Bootstrap, dan Vue JS.
 
 <details>
 <summary><b>1. Home Section</b></summary>
@@ -290,7 +288,8 @@ Navbar menggunakan komponen Bootstrap 5 dan responsive collapse.
 
 ---
 
-## Teknologi yang Digunakan
+## ⚙️ Teknologi yang Digunakan  
+Daftar tools dan framework yang digunakan.
 
 <details>
 <summary><b>1. HTML</b></summary>
