@@ -29,9 +29,11 @@ serta bantuan Bootstrap 5 dan Vue JS untuk pengelolaan data yang lebih terstrukt
 
 ---
 
-| Nama                      | NIM           | Kelas             |
-|---------------------------|---------------|-------------------|
-| Indah Maramin Al Inayah   | 2409116086    | Sistem Informasi C 2024 |
+## 🌷 Student Information   
+
+| ✨ Nama Lengkap              | 🆔 NIM        | 📚 Kelas                 |
+|------------------------------|---------------|--------------------------|
+| **Indah Maramin Al Inayah**  | 2409116086    | Sistem Informasi C 2024  |
 
 ---
 
