@@ -1,4 +1,4 @@
-<img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/5d03601e-11cd-4a28-a6ae-d9f8baa6b237" /># Portfolio
+# Portfolio
 
 | Nama                      | NIM           | Kelas             |
 |---------------------------|---------------|-------------------|
@@ -72,10 +72,9 @@
 <br>
 
 <div align="center">
-  <img width="1919" height="1003" alt="image" 
-  src="https://github.com/user-attachments/assets/f87b79f8-dd33-4afe-b206-7861cc2b9661" />
+  <img width="1919" height="1010" alt="image" 
+  src="https://github.com/user-attachments/assets/83a3d7d8-2345-4bd8-a5d1-ff6cb8f4b22a" />
 
-  
   <p align="center">
   <b><em>Certificates Section</em></b><br>
   Section Certificates menampilkan data sertifikat dalam bentuk card layout menggunakan Bootstrap.
