@@ -243,4 +243,16 @@ Navbar menggunakan komponen Bootstrap 5 dan responsive collapse.
   </div>
 </nav>
 ```
+- `<nav>`: Elemen HTML semantik yang digunakan untuk mendefinisikan bagian navigasi pada halaman website.
+- `navbar `: Class bawaan Bootstrap yang digunakan untuk membuat komponen navigasi dengan styling default.
+- `navbar-expand-lg`: Class Bootstrap yang mengatur perilaku ekspansi navbar.
+- `fixed-top`: Membuat navbar tetap berada di bagian atas halaman meskipun pengguna melakukan scroll.
+- `container`: Membungkus isi navbar agar sejajar dengan konten section lainnya serta mengikuti Grid System Bootstrap.
+- `navbar-brand`: Digunakan untuk menampilkan identitas atau nama website pada navbar.
+- `fw-bold`: Utility class Bootstrap untuk membuat teks menjadi lebih tebal (font-weight bold).
+- `href="#"`: Menunjukkan bahwa link tersebut mengarah ke bagian atas halaman.
+
+<br>
+</details>
+
 ---
