@@ -49,7 +49,6 @@
   <p align="center">
   <b><em>Abour Me Section</em></b><br>
   Section About me berisi informasi singkat mengenai profil diri dan pengalaman organisasi.
-
   <br><br>
   Elemen yang ditampilkan:
   <br>
@@ -78,7 +77,6 @@
   <p align="center">
   <b><em>Certificates Section</em></b><br>
   Section Certificates menampilkan data sertifikat dalam bentuk card layout menggunakan Bootstrap.
-
   <br><br>
   Website ini menampilkan 4 sertifikat, setiap card terdiri atas:
   <br>
@@ -87,6 +85,33 @@
   - Deskripsi singkat<br>
   
   Layout menggunakan sistem grid agar tampilkan tetap rapi dan responsif pada dekstop.
+  </p>:
+  
+  <br>
+  </p>
+
+</div>
+<br>
+</details>
+
+<details>
+<summary><b>4. Navbar</b></summary>
+<br>
+
+<div align="center">
+  <img width="1919" height="1010" alt="image" 
+  src="https://github.com/user-attachments/assets/83a3d7d8-2345-4bd8-a5d1-ff6cb8f4b22a" />
+
+  <p align="center">
+  <b><em>Navbar</em></b><br>
+  Navbar terletah di bagian atas website dan bersifat fixed-top. Menu navigasi terdiri dari home, about, dan certificates.
+  <br><br>
+  Navbar memiliki efek perubahan tampilan saat halaman di-scroll:
+  <br>
+  - Saat dibagian atas background menjadi transparan<br>
+  - Saat di scroll background menjadi putih dengan shadow<br>
+  
+  Struktur navigasi disusun menggunakan komponen Bootstrap sehingga tampil rapi dan konsisten.
   </p>:
   
   <br>
