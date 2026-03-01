@@ -1,4 +1,4 @@
-# Portfolio
+# Mini Project 1: Portfolio
 
 | Nama                      | NIM           | Kelas             |
 |---------------------------|---------------|-------------------|
