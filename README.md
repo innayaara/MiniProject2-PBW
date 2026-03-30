@@ -297,7 +297,7 @@ Daftar tools dan framework yang digunakan.
 <summary><b>1. HTML</b></summary>
 <br>
 
-HTML digunakan sebagai struktur utama dalam membangun halaman website. Elemen-elemen seperti <nav>, <section>, <div>, <h1>, <p>, dan <img> digunakan untuk menyusun konten agar terstruktur dengan baik dan semantik.
+HTML digunakan sebagai struktur utama dalam membangun halaman website.Elemen-elemen seperti <nav>, <section>, <div>, <h1>, <p>, dan <img> digunakan untuk menyusun konten agar terstruktur dengan baik dan semantik.
 
 
 - Foto profil berbentuk lingkaran dengan efek shadow dan glow<br>
