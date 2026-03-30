@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌸 Mini Project — Portfolio Website  
 ---
 
@@ -376,3 +377,8 @@ Font Awesome digunakan untuk menampilkan ikon seperti ikon Instagram pada hero s
 
 <br>
 </details>
+=======
+| ✨ Nama Lengkap              | 🆔 NIM        | 📚 Kelas                 |
+|------------------------------|---------------|--------------------------|
+| **Indah Maramin Al Inayah**  | 2409116086    | Sistem Informasi C 2024  |
+>>>>>>> 3a3c99d12e84fd6e18be3ed11c76583b2d6ef038
